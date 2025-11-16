@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+## Current plan
+
+BS [Bachelor of Science] In Computer Science.
+
 ## Future plan
 
-BS [Bachelor Degree] In Computer Science.
+MS [Master of Sciene] in...TBD.
 
 
 <!--
