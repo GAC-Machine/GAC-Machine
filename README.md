@@ -9,6 +9,14 @@ BS [Bachelor of Science] In Computer Science.
 MS [Master of Sciene] in...TBD.
 
 
+## Idea/Possibilities
+
+> Fields
+  Datascience
+> Cyber security
+> ??
+
+
 <!--
 **GAC-Machine/GAC-Machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
